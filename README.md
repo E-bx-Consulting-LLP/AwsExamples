@@ -4,7 +4,7 @@ This repo contains a collection of examples and useful information about develop
 
 - Code, project and solution structure
 - Templating tools, so the codebase maintains consitency across the solution
-- AWS serverless stacks, so Lambda and FarGate (ECS)
+- AWS serverless stacks, so Lambda and Fargate (ECS)
 - Deploying to AWS from Azure DevOps, so joining up an end-to-end provision, build, test, deploy (and test again) pipeline
 
 # Areas of focus
